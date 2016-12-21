@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+this is a sample files.
+line 2
+=======
+This is a sample files.
+>>>>>>> a3aae8248994388d475a4b5378fa91bab14a6c9a
