@@ -1,2 +1,6 @@
 this is a sample files.
+<<<<<<< .mine
 nirgvgvrk
+=======
+line 22
+>>>>>>> .theirs
