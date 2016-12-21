@@ -2,3 +2,4 @@
 function func(){
 	
 }
+console.log('changed');
