@@ -1,4 +1,5 @@
 //just created new file
+
 function func(){
 	
 }
@@ -10,4 +11,4 @@ function Fahad(sub) {
 }
 
 Fahad('Git with GitBash');
->>>>>>> .theirs
+

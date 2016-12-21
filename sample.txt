@@ -1,6 +1,5 @@
 this is a sample files.
-line 2
+
 nirgvgvrk
 =======
 line 22
-
