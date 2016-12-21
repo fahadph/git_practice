@@ -3,4 +3,4 @@ function Fahad(sub) {
 	console.log('fahad is teaching' + sub);
 }
 
-Fahad();
+Fahad('Git with GitBash');
