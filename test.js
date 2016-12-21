@@ -1,6 +1,6 @@
 //just created new file
 function func(){
-
+	
 }
-erewrw
-asdasd
+
+Fahad('Git with GitBash');
