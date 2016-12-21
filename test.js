@@ -1,14 +1,4 @@
-//just created new file
 
 function func(){
-	
+	Say hello world Mrudula
 }
-kkkk
-lllll
-=======
-function Fahad(sub) {
-	console.log('fahad is teaching' + sub);
-}
-
-Fahad('Git with GitBash');
-
