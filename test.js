@@ -1,6 +1,6 @@
 //just created new file
 function func(){
-	Say hello world
+	Say hello world Mrudula
 }
 
 Say Hello world
