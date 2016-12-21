@@ -1,8 +1,7 @@
 this is a sample files.
-test2
-akshay
 
 nirgvgvrk
 =======
 line 22
 
+Test it
