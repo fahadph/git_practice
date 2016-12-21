@@ -1,9 +1,14 @@
 //just created new file
-function Fahad(sub) {
-	console.log('fahad is teaching ' + sub);
+
 function func(){
 	
 }
-console.log('changed again');
+kkkk
+lllll
+=======
+function Fahad(sub) {
+	console.log('fahad is teaching' + sub);
+}
 
 Fahad('Git with GitBash');
+
