@@ -1,6 +1,4 @@
 this is a sample files.
-<<<<<<< .mine
-nirgvgvrk
-=======
+akshay
 line 22
->>>>>>> .theirs
+
