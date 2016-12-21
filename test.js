@@ -4,3 +4,5 @@ function func(){
 }
 
 Fahad('Git with GitBash');
+
+console.log("Done");
