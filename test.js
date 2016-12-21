@@ -1,4 +1,4 @@
 //just created new file
-function func(){
-	condole.log("test")
+function Fahad(sub) {
+	console.log('fahad is teaching ' + sub);
 }
