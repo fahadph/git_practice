@@ -3,6 +3,7 @@ function func(){
 	Say hello world Mrudula
 }
 
+}
 erewrw
 asdasd
 change by siddique
