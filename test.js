@@ -1,9 +1,5 @@
 //just created new file
 function func(){
-	
-function func(){
-	Say hello world Mrudula
-}
 
 }
 erewrw
@@ -13,4 +9,5 @@ Fahad('Git with GitBash');
 
 console.log("Done");
 console.log("hello");
-console.log("Git push");
+SKNDckjnk
+dsjhvhdvhshgcvhgv
