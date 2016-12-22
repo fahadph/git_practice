@@ -1,8 +1,11 @@
 just for practice
 practice file
-line 3 fahad
 
+<<<<<<< HEAD
+"UI Team under fire and also feeling very sleepy".
+=======
 
 
 line 4 shruthi
 line 5
+>>>>>>> a3316d5b52daa27a74ae28b5bb569452b2664b43
