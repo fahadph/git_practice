@@ -1,16 +1,6 @@
+
+function Fahad(sub) {
+	console.log('fahad is teaching' + sub);
+}
 //just created new file
-function func(){
-	
-function func(){
-	Say hello world Mrudula
-}
-
-}
-erewrw
-asdasd
-change by siddique
-Fahad('Git with GitBash');
-
-console.log("Done");
-console.log("hello");
-console.log("Git push");
+hey it's a good day'
