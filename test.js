@@ -5,8 +5,12 @@ function func(){
 	Say hello world Mrudula
 }
 
+}
 erewrw
 asdasd
 change by siddique
 Fahad('Git with GitBash');
 
+console.log("Done");
+console.log("hello");
+console.log("Git push");
