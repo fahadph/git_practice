@@ -1,8 +1,15 @@
 this is a sample files.
 akshay Prasad
+
 asdasas
 hellooooooo
+
 Broadsoft R&D.
+Ajay kumamr sana.
+aasdasd
+asdasdasd
+asdsadsad
+asdasdasdasdasd
 line 2
 Temporary merge branch 1
 This is a sample files.
@@ -11,6 +18,12 @@ line 22
 line 99990
 line 777
 
+fahad
+siddique
+Manju
+shruthi practice
+Vin Local
+added ajay
 emporary merge branch 2
 "UI team is under fire ".
 "Jitendra"
@@ -21,12 +34,15 @@ siddique
 Manju
 shruthi practice
 Vin Local
+
 <<<<<<< HEAD
 djdjhjsahaashghg
 asdasdasdasd
+
 =======
 fahad
 siddique
 Manju
 shruthi practice
+
 >>>>>>> b59970523fb5442b81527be1ed23709cdba80872

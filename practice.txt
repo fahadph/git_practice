@@ -1,9 +1,7 @@
 just for practice
 practice file
 line 3 fahad
-
 "UI Team under fire".
-<<<<<<< HEAD
 "UI Team under fire and also feeling very sleepy".
 =======
 
