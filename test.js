@@ -1,6 +1,6 @@
 //just created new file
 function func(){
-	
+	Say hello world Mrudula
 }
 
-Fahad('Git with GitBash');
+Say Hello world
