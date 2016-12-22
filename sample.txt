@@ -2,6 +2,18 @@ this is a sample files.
 akshay Prasad
 asdasas
 Broadsoft R&D.
+line 2
+This is a sample files.
+akshay
+line 22
+line 99990
 
+<<<<<<< HEAD
 djdjhjsahaashghg
 asdasdasdasd
+=======
+fahad
+siddique
+Manju
+shruthi practice
+>>>>>>> b59970523fb5442b81527be1ed23709cdba80872
