@@ -1,0 +1,19 @@
+//just created new file
+function func(){
+	
+function func(){
+	Say hello world Mrudula
+}
+<<<<<<< HEAD
+MY own code JK
+=======
+
+}
+erewrw
+asdasd
+change by siddique
+Fahad('Git with GitBash');
+
+console.log("Done");
+console.log("hello");
+>>>>>>> 2fdaa24af30f884ea4979813aa50e882616653eb
