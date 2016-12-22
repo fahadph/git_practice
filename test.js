@@ -4,3 +4,4 @@ function Fahad(sub) {
 }
 //just created new file
 hey it's a good day'
+yes it is a good day
