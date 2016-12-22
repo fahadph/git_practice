@@ -1,8 +1,13 @@
 //just created new file
- Temporary merge branch 1
-function Fahad(sub) {
-	console.log('fahad is teaching' + sub);
-}
+function func(){
 
+}
+erewrw
+asdasd
+change by siddique
 Fahad('Git with GitBash');
- Temporary merge branch 2
+
+console.log("Done");
+console.log("hello");
+SKNDckjnk
+dsjhvhdvhshgcvhgv
