@@ -1,6 +1,9 @@
-//just created new file
-function Fahad(sub) {
-	console.log('fahad is teaching' + sub);
+
+function func(){
+	
+function func(){
+	Say hello world Mrudula
 }
 
 Fahad('Git with GitBash');
+
