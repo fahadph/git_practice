@@ -1,13 +1,13 @@
 //just created new file
 function func(){
-<<<<<<< Temporary merge branch 1
-
-}
-MY own code JK
-=======
 	
+<<<<<<< HEAD
 function func(){
 	Say hello world Mrudula
+function Fahad(sub) {
+	console.log('fahad is teaching' + sub);
+=======
+>>>>>>> 66774a939cdfe54e7776f4129926d39e6b67aaf2
 }
 
 Fahad('Git with GitBash');
@@ -25,5 +25,9 @@ Fahad('Git with GitBash');
 
 console.log("Done");
 console.log("hello");
+<<<<<<< HEAD
+MY own code JK
+=======
 SKNDckjnk
 dsjhvhdvhshgcvhgvMY own code JK
+>>>>>>> 66774a939cdfe54e7776f4129926d39e6b67aaf2
