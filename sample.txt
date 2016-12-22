@@ -2,13 +2,20 @@ this is a sample files.
 akshay Prasad
 Broadsoft R&D.
 line 2
+Temporary merge branch 1
 This is a sample files.
 akshay
 line 22
 line 99990
+line 777
 
+<<<<<<<<< Temporary merge branch 1
 fahad
 siddique
 Manju
 shruthi practice
 Vin Local
+=========
+emporary merge branch 2
+"Jitendra"
+>>>>>>>>> Temporary merge branch 2
