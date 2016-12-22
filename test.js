@@ -1,5 +1,9 @@
 //just created new file
 function func(){
+	
+function func(){
+	Say hello world Mrudula
+}
 
 }
 erewrw
