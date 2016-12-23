@@ -32,3 +32,5 @@ console.log("hello");
 SKNDckjnk
 dsjhvhdvhshgcvhgv
 dsjhvhdvhshgcvhgvMY own code JK
+hey it's a good day'
+yes it is a good day

@@ -10,10 +10,13 @@ line 3 fahad
 
 line 4 shruthi
 line 5
+line siddique changed
+>>>>>>> a3316d5b52daa27a74ae28b5bb569452b2664b43
 
 
 line 12
 line siddique changes
+Local to dev
 
 
 
@@ -21,3 +24,4 @@ line siddique changes
 jkcheck
 
 klklllioooio
+jUST ADD ---- Again

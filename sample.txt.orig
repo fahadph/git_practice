@@ -1,27 +1,20 @@
 this is a sample files.
+<<<<<<<<< Temporary merge branch 1
+=========
 akshay Prasad
-
 asdasas
 hellooooooo
-
 Broadsoft R&D.
-Ajay kumamr sana.
-aasdasd
-asdasdasd
-asdsadsad
-asdasdasdasdasd
+<<<<<<< HEAD
 line 2
 This is a sample files.
 akshay
 line 22
 line 99990
+=======
+Ajay kumamr sana.
+>>>>>>> dcec9e9f9fc0d0bced987675903a97f8e99cf012
 
-fahad
-siddique
-Manju
-shruthi practice
-Vin Local
-added ajay
 "UI team is under fire ".
 "Jitendra"
 "UI Team under fire".
@@ -44,4 +37,6 @@ shruthi practice
 JK editing
 JK editing2	
 =======
->>>>>>> 072fa91d320d9a292d78a3b98387c9952afa526a
+
+sssssssssssssssssssssssssssssssssssssssssssssssssss
+>>>>>>> dcec9e9f9fc0d0bced987675903a97f8e99cf012

@@ -3,6 +3,7 @@ function Fahad(sub) {
 	console.log('fahad is teaching' + sub);
 }
 //just created new file
+<<<<<<< HEAD
 function func(){
 <<<<<<< Temporary merge branch 1
 
@@ -30,8 +31,9 @@ Fahad('Git with GitBash');
 console.log("Done");
 console.log("hello");
 SKNDckjnk
-<<<<<<< HEAD
+dsjhvhdvhshgcvhgv
 dsjhvhdvhshgcvhgvMY own code JK
 =======
-dsjhvhdvhshgcvhgv
->>>>>>> 072fa91d320d9a292d78a3b98387c9952afa526a
+hey it's a good day'
+yes it is a good day
+>>>>>>> dcec9e9f9fc0d0bced987675903a97f8e99cf012
