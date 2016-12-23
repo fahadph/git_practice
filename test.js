@@ -1,3 +1,7 @@
+
+function Fahad(sub) {
+	console.log('fahad is teaching' + sub);
+}
 //just created new file
 function func(){
 <<<<<<< Temporary merge branch 1
@@ -26,4 +30,7 @@ Fahad('Git with GitBash');
 console.log("Done");
 console.log("hello");
 SKNDckjnk
+dsjhvhdvhshgcvhgv
 dsjhvhdvhshgcvhgvMY own code JK
+hey it's a good day'
+yes it is a good day
