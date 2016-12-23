@@ -1,7 +1,12 @@
 //just created new file
-function Fahad(sub) {
-	console.log('fahad is teaching' + sub);
+function func(){
+	
+function func(){
+	Say hello world Mrudula
 }
+<<<<<<< HEAD
+MY own code JK
+=======
 
 erewrw
 asdasd
@@ -12,4 +17,4 @@ console.log("Done");
 console.log("hello");
 SKNDckjnk
 dsjhvhdvhshgcvhgv
-MY own code JK
+>>>>>>> 4606dc123b12e760092c56b559a1b6870d15da59
