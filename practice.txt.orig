@@ -2,23 +2,26 @@ just for practice
 practice file
 line 3 fahad
 
-<<<<<<< HEAD
 "UI Team under fire".
 
-=======
-<<<<<<< HEAD
->>>>>>> dcec9e9f9fc0d0bced987675903a97f8e99cf012
 "UI Team under fire and also feeling very sleepy".
 
 
 
 line 4 shruthi
 line 5
-<<<<<<< HEAD
+line siddique changed
+>>>>>>> a3316d5b52daa27a74ae28b5bb569452b2664b43
 
 
 line 12
 line siddique changes
+<<<<<<< HEAD
+
+
+this is in JK
+=======
+Local to dev
 
 
 
@@ -26,12 +29,5 @@ line siddique changes
 jkcheck
 
 klklllioooio
-=======
-line siddique changed
->>>>>>> a3316d5b52daa27a74ae28b5bb569452b2664b43
-
-
-Local to dev
-
 jUST ADD ---- Again
->>>>>>> dcec9e9f9fc0d0bced987675903a97f8e99cf012
+>>>>>>> 449ba48b06198c33470b6808e6e10b29559f8ae6
